@@ -2,6 +2,7 @@
 A machine learning-based emotion classification system for secondary emotions.
 
 Database (JL Corpus version used for this project):(1) https://www.kaggle.com/gcao417/jlcorpus-p115
+
 (The database used was the JLCorpus, which was adjusted from the open source version available here:(2) https://www.kaggle.com/tli725/jl-corpus)
 
 # Project description
