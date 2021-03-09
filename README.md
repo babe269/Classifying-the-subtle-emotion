@@ -1,5 +1,5 @@
 # Project-115: Classifying the subtle emotion 🎭
-A machine learning-based emotion classification system for secondary emotions.
+A machine learning-based emotion classification system for five secondary emotions and five primary emotions.
 
 (1) Database (JL Corpus version used for this project): https://www.kaggle.com/gcao417/jlcorpus-p115
 
